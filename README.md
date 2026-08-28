@@ -1,4 +1,4 @@
-# 🛡️ SOC & Detection Engineering Lab (Azaki)
+# 🛡️ Wazuh Detection and Response Lab (WDRL)
 
 ## 📖 Giới thiệu (Overview)
 Đây là kho tài liệu tổng hợp toàn bộ các nghiên cứu, kịch bản giả lập tấn công (Adversary Emulation) và báo cáo điều tra sự cố (Incident Response) trong hệ thống SOC Lab cá nhân. 
